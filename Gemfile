@@ -7,6 +7,7 @@ gem 'dm-postgres-adapter'
 gem 'sinatra'
 gem 'shotgun'
 gem 'pry'
+gem 'database_cleaner'
 
 group :development, :test do
   gem 'rspec-sinatra'
