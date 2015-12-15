@@ -1,7 +1,7 @@
 User Stories
 
 As a user
-So I may my favourite links
+So I may view my favourite links
 I want to see a list from the bookmark manager
 
 As a user
